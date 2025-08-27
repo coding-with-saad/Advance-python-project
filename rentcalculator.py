@@ -8,3 +8,4 @@ persons=int(input("enter the number of person living in the house "))
 
 total_bill=electricity_spend*charger_per_unit
 
+output=(food+rent+total_bill)//persons
