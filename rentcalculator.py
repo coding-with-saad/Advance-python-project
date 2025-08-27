@@ -6,3 +6,5 @@ charger_per_unit=int(input("enter charge per unit in the area"))
 
 persons=int(input("enter the number of person living in the house "))
 
+total_bill=electricity_spend*charger_per_unit
+
